@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npx shadcn@latest add toggle-group input label sheet avatar badge switch progress separator scroll-area sonner)",
+      "Bash(node -e \"const {GeistSans} = require\\('c:/projetosPessoais/lista-super/front/node_modules/geist/dist/sans.js'\\); console.log\\(GeistSans.variable\\)\")",
+      "Bash(node -e \"const l = require\\('c:/projetosPessoais/lista-super/front/node_modules/lucide-react'\\); ['ShoppingBasket','ShoppingCart','Apple','Milk','Leaf','Sparkles','Minus','Plus'].forEach\\(n => console.log\\(n, !!l[n]\\)\\)\")"
+    ]
+  }
+}
